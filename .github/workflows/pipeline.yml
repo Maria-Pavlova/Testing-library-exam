@@ -1,4 +1,4 @@
-name: Build All Tests and Deploy app
+name: Build All Tests and Deploy Library app
 
 on:
   push:
